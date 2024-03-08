@@ -1,4 +1,11 @@
-### Hi there 👋
+### Hey, hi, hello👋
+
+
+
+I’m currently learning Artificial Intelligence and Decision Systems, Data Visualization and Business Intelligence
+
+Skills:
+[![My Skills](https://skillicons.dev/icons?i=cs)](https://skillicons.dev)
 
 <!--
 **puechua/puechua** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

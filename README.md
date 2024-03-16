@@ -5,7 +5,7 @@ Ever since I was 15, I have been dreaming about becoming a programmer. In 2017, 
 </br>
 
 
-As you may see, some repositories here are as notes :)
+As you may see, some repositories here are treated as notes :)
 
 ## Skills
 <p align="left">
